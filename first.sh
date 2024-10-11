@@ -1,5 +1,5 @@
 ls
-ls -l
+ls -lrt
 find
 
 
